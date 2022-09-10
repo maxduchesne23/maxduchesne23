@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **mrduch23@colby.edu**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
