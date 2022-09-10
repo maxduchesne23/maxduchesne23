@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max Duchesne!</h1>
 <h3 align="left">About me: I'm a senior at Colby College studying computer science and economics. I found my passion for CS later in my undergrad career than most (only began pursuing computer science courses in depth last year), but nonetheless enjoy creating and leveraging computer tools to find data-driven solutions to real-world problems. The high learning curve in computer programming excites me to continue pursuing CS-related projects!</h3>
 
-Please feel free to contact me via email📫! You can reach me at: **max.duchesne@colby.edu**
+Please feel free to contact me via email 📫 You can reach me at: **max.duchesne@colby.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
