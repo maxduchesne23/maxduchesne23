@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Max Duchesne!</h1>
-<h3 align="center">I'm a senior at Colby College studying computer science and economics. I'm passionate about finding data-driven solutions to real-world problems.</h3>
+<h1 align="center">Hi, I'm Max Duchesne!</h1>
+<h3 align="left">About me:
+I'm a senior at Colby College studying computer science and economics. I'm passionate about finding data-driven solutions to real-world problems.</h3>
 
 - 📫 How to reach me: **max.duchesne@colby.edu**
 
