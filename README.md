@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max Duchesne</h1>
-<h3 align="center">Student at Colby College</h3>
+<h3 align="center">Senior at Colby College studying computer science and economics. Passionate about finding data-driven solutions to real-world problems</h3>
 
 - 📫 How to reach me **mrduch23@colby.edu**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/max-duchesne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/max-duchesne/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
